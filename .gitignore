@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+
+# Node / Frontend
+node_modules/
+dist/
+
+# Environment files
+.env
+*.user
+*.swp
+
+# OS / Misc
+.DS_Store
+Thumbs.db
